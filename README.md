@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+I am web developer
+I am good at backend development and desiging also
+My email id sivamani_k@srmap.edu.in
+Phone number is 8179703032 contact me for any projects
 <!--
 **sivamani2003/sivamani2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
